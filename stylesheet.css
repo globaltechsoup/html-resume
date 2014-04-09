@@ -1,0 +1,110 @@
+body {
+	background-color: yellow;
+	font-family: arial black;
+	color: grey;
+}
+
+.jobtitle {
+	color:black;
+}
+
+h2 {
+	font-family:Braggadocio;
+	font-size: 40px;
+	background-color: white;
+	color:black;
+	text-align: center;
+	border-radius: 20px;
+}
+
+.biggertitle {
+	background-color: white;
+	color: black;
+	border-radius: 20px;
+	text-align: center;
+}
+
+.address {
+	text-align: center;
+}
+
+.contactinfo {
+	position: static;
+	bottom: 0;
+	right: 0;
+	width: 400px;
+	height: 300px;
+	background: orange;
+	border-radius: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 6px solid;
+	margin-bottom: 10px;
+}
+.professionalexperience {
+	position: static;
+	bottom: 200;
+	right: 200;
+	width: 500px;
+	height: 650px;
+	background: lightblue;
+	border-radius: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 20px;
+	padding-right: 20px;
+	border: 6px solid;
+	margin-bottom: 10px;
+}
+.education {
+	position: static;
+	bottom: 400;
+	right: 400;
+	width: 700px;
+	height: 300px;
+	background: lightgreen;
+	border-radius: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	border: 6px solid;
+	margin-bottom: 10px;
+}
+.interests {
+	position: static;
+	top: 600;
+	right: 600;
+	width: 200px;
+	height: 200px;
+	background: pink;
+	border-radius:20px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 6px solid;
+}
+ #navbar ul { 
+	margin-bottom: 10px; 
+	padding: 5px; 
+	list-style-type: none; 
+	text-align: center; 
+	background-color: #000; 
+	} 
+ 
+#navbar ul li {  
+	display: inline; 
+	} 
+ 
+#navbar ul li a { 
+	text-decoration: none; 
+	padding: .2em 1em; 
+	color: #fff; 
+	background-color: #000; 
+	} 
+ 
+#navbar ul li a:hover { 
+	color: #000; 
+	background-color: #fff; 
+	} 
+
